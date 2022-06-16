@@ -8,7 +8,6 @@
 * [Inventory Module](daftar-isi/inventory-module.md)
 * [UPLOAD MR (csv file)](daftar-isi/upload-mr-csv-file.md)
 * [UPLOAD INVENTORY MODULE (csv file)](daftar-isi/upload-inventory-module-csv-file.md)
-* [Request Stock Adjustment](daftar-isi/request-stock-adjustment.md)
 * [Material Request (Pembelian Logistik)](daftar-isi/material-request-pembelian-logistik.md)
 * [Permintaan Barang (Transfer WS-WS)](daftar-isi/permintaan-barang-transfer-ws-ws.md)
 * [CHECK-IN REUSEABLE PART (PART BEKAS)](daftar-isi/check-in-reuseable-part-part-bekas.md)
